@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/admin1/MIPT/Algo/3sem/contest1/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/contest1.dir/mpast.cpp.o -c /home/admin1/MIPT/Algo/3sem/contest1/mpast.cpp",
+  "file": "/home/admin1/MIPT/Algo/3sem/contest1/mpast.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address -fsanitize=undefined -Wall -Wextra -Werror -g CMakeFiles/contest1.dir/H.cpp.o -o contest1 

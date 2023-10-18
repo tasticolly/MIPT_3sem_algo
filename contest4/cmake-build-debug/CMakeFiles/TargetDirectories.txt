@@ -1,0 +1,3 @@
+/home/admin1/MIPT/Algo/3sem/contest4/cmake-build-debug/CMakeFiles/contest4.dir
+/home/admin1/MIPT/Algo/3sem/contest4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/admin1/MIPT/Algo/3sem/contest4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
